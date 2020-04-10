@@ -4,10 +4,6 @@ body{
     
 }
 
-.container {
-    max-width: 1128px;
-    margin: 0 auto;
- }
 
 .menu-principal li{
    display: inline-block;

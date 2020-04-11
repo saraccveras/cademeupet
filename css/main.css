@@ -76,12 +76,12 @@ nav{
 
 .titulo{
     text-align: center;
-    font-size: 25px;
+    font-size: 20px;
     margin-bottom: 50px;
 }
 
 div h2{
-    font-size:25px;
+    font-size:20px;
     padding: 3%;
 }
 
@@ -89,7 +89,7 @@ div h3{
     background-color: #DCDCDC;
     padding: 25px;
 	border-bottom: 5px solid black;
-	font-size: 50px;
+	font-size: 20px;
     text-transform: uppercase;
     margin-top: 5%;
     
@@ -97,7 +97,7 @@ div h3{
 
 div p{
     text-align: left;
-    font-size: 25px;
+    font-size: 20px;
     padding-left:  20%;
     padding-top: 3%;
     padding-right: 20%;
